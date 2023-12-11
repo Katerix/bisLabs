@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bisLab1", "bisLab1.csproj", "{5DCC555C-43B2-4A22-A002-CC5A9A2B9D6B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bisLab2", "..\bisLab2\bisLab2.csproj", "{6C74E32B-A4D9-46F1-AD50-174A765ED8DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bisLab3", "..\bisLab3\bisLab3.csproj", "{1129E554-44DA-4202-9D90-D57F7666922B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DCC555C-43B2-4A22-A002-CC5A9A2B9D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCC555C-43B2-4A22-A002-CC5A9A2B9D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCC555C-43B2-4A22-A002-CC5A9A2B9D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCC555C-43B2-4A22-A002-CC5A9A2B9D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C74E32B-A4D9-46F1-AD50-174A765ED8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C74E32B-A4D9-46F1-AD50-174A765ED8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C74E32B-A4D9-46F1-AD50-174A765ED8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C74E32B-A4D9-46F1-AD50-174A765ED8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1129E554-44DA-4202-9D90-D57F7666922B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1129E554-44DA-4202-9D90-D57F7666922B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1129E554-44DA-4202-9D90-D57F7666922B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1129E554-44DA-4202-9D90-D57F7666922B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D1F0266-523A-4DB2-B388-7C25ED53B5A3}
+	EndGlobalSection
+EndGlobal
